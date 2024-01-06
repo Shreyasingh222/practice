@@ -1,4 +1,4 @@
 # practice
 This is my first repository.
 <br>
-Author - Shreya singh
+Author - Shreya sinha().
